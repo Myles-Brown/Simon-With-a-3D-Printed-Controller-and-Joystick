@@ -19,7 +19,7 @@ Arduino IDE
 
 # Assembly Instructions
 
-For 3D print configuration click here
+For 3D print setup information [Click Here](https://example.com)
 
 
 # Images and Demo
