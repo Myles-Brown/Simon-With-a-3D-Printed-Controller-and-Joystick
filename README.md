@@ -21,6 +21,10 @@ Arduino IDE
 
 For 3D print setup information [Click Here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/3D%20Prints/Print%20Information.md)
 
+For Information on PCB assembly [Click Here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/Manufacturing%20Info.md)
+
+For the list of components [Click Here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/SimonSays%20project%20BOM.csv)
+
 
 # Images and Demo
 <img width="428" height="571" alt="IMG_2018" src="https://github.com/user-attachments/assets/4aa9f4c6-bf56-481c-be19-639ac46e0a37" />
