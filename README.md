@@ -17,6 +17,8 @@ Arduino IDE
    
 4. Super glue (to keep components in place specifically the button, LEDs, switch, and joystick.)
 
+5. 9V Battery Connector to wires
+
 # Assembly Instructions
 
 For 3D print setup information [Click Here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/3D%20Prints/Print%20Information.md)
