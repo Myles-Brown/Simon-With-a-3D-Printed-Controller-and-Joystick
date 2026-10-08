@@ -1,6 +1,13 @@
 # Simon-With-a-3D-Printed-Controllor-and-Joystick
 This Project offers a twist on the memory game Simon. Instead of buttons the game uses a joystick mounted on a custom 3D printed controller as well as lights, a speaker, and an on off switch connected to a battery. These components are connected to a two layer PCB designed in KiCad with an Arduino Nano that runs the games code.
 
+# Technologies Used
+Fusion
+
+KiCAD
+
+Arduino IDE
+
 # Images and Demo
 <img width="428" height="571" alt="IMG_2018" src="https://github.com/user-attachments/assets/4aa9f4c6-bf56-481c-be19-639ac46e0a37" />
 
