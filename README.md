@@ -19,7 +19,7 @@ Arduino IDE
 
 # Assembly Instructions
 
-For 3D print setup information [Click Here](https://example.com)
+For 3D print setup information [Click Here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/3D%20Prints/Print%20Information.md)
 
 
 # Images and Demo
