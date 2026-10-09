@@ -27,7 +27,7 @@ For Information on PCB assembly [Click Here](https://github.com/ProjectMaker409/
 
 For the list of components [Click Here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/SimonSays%20project%20BOM.csv)
 
-To follow along with component hook up reference [This Schematic](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/Schematic%20and%20PCB%20View/Schematic%20Screenshot)
+To follow along with component hook up reference [This Schematic](https://github.com/Myles-Brown/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/Schematic%20and%20PCB%20View/Schematic.png)
 
 
 # Images and Demo
