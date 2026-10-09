@@ -1,4 +1,4 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet/Link to product"
 "9VBatt1","1","~","","","","SimonSay_joystick:9V Batt In",""
 "A1","1","Arduino_Nano_v3.x","","","","Module:Arduino_Nano","http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf"
 "BZ1","1","Buzzer","","","","Buzzer_Beeper:Buzzer_5V","https://www.pcboard.ca/mini-piezo-buzzer"
