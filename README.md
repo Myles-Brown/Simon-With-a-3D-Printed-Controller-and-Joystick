@@ -29,6 +29,8 @@ For the list of components [Click Here](https://github.com/ProjectMaker409/Simon
 
 To follow along with component hook up reference [This Schematic](https://github.com/Myles-Brown/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/Schematic%20and%20PCB%20View/Schematic.png)
 
+Step One: Review the 3D Print Setup Information carefully for the best print quality and joystick fit
+
 
 # Images and Demo
 <img width="428" height="571" alt="IMG_2018" src="https://github.com/user-attachments/assets/4aa9f4c6-bf56-481c-be19-639ac46e0a37" />
