@@ -1,48 +1,50 @@
-# Simon-With-a-3D-Printed-Controllor-and-Joystick
-This Project offers a twist on the memory game Simon. Instead of buttons the game uses a joystick mounted on a custom 3D printed controller as well as lights, a speaker, and an on off switch connected to a battery. These components are connected to a two layer PCB designed in KiCad with an Arduino Nano that runs the games code.
+# Simon-With-a-3D-Printed-Controller-and-Joystick
+
+This project offers a twist on the classic memory game Simon. Instead of buttons, the game uses a joystick mounted in a custom 3D-printed controller, along with LEDs, a speaker, an on/off switch, and a battery. These components are connected to a two-layer PCB designed in KiCad, with an Arduino Nano running the game’s code.
 
 # Technologies Used
+
 Fusion
 
-KiCAD
+KiCad
 
 Arduino IDE
 
 # Required Tools
-1. Soldering Iron
-   
-2. 22 AWG wire or smaller (the more flexable the wire the better as the Joystick, the button, and the four LEDs will all need to be connected to the board with Wires and it can become crowded.
 
-3. Heat shrink
-   
-4. Super glue (to keep components in place specifically the button, LEDs, switch, and joystick.)
+1. Soldering iron
 
-5. 9V Battery Connector to wires
+2. 22 AWG wire or smaller (the more flexible the wire, the better). The joystick, push button, and four LEDs must all be connected to the PCB with wires, which can make the available space crowded.
+
+3. Heat shrink tubing
+
+4. Super glue (to secure components in place, specifically the push button, LEDs, switch, and joystick).
+
+5. 9V battery connector with wires
 
 # Assembly Instructions
 
-For 3D print setup information [Click Here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/3D%20Prints/Print%20Information.md)
+For 3D printing setup information, [click here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/3D%20Prints/Print%20Information.md).
 
-For Information on PCB assembly [Click Here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/Manufacturing%20Info.md)
+For information on PCB assembly, [click here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/Manufacturing%20Info.md).
 
-For the list of components [Click Here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/SimonSays%20project%20BOM.csv)
+For the list of components, [click here](https://github.com/ProjectMaker409/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/SimonSays%20project%20BOM.csv).
 
-To follow along with component hook up reference [This Schematic](https://github.com/Myles-Brown/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/Schematic%20and%20PCB%20View/Schematic.png)
+To follow along with the component hookup reference, [view this schematic](https://github.com/Myles-Brown/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/Schematic%20and%20PCB%20View/Schematic.png).
 
-**Step 1:**  Review the 3D Print Setup Information carefully for the best print quality and joystick fit and flash the Arduino with the code
+**Step 1:** Review the 3D printing setup information carefully to ensure the best print quality and proper joystick fit. Then, upload the game code to the Arduino.
 
-**Step 2:**  Using Super glue mount the LED's in the exact the are in the images below IE red up blue down yellow left and green right
+**Step 2:** Use super glue to mount the LEDs in the positions shown in the images below: red at the top, blue at the bottom, yellow on the left, and green on the right.
 
-**Step 3:**  Using super attach the push button and joystick to the top piece and the buzzer into the round hole at the front of the bottom piece and the switch into the small rectangle at the back
+**Step 3:** Use super glue to attach the push button and joystick to the top piece. Attach the buzzer inside the round hole at the front of the bottom piece and the switch inside the small rectangular opening at the back.
 
-**Step 4:**  Solder all resistors on to the PCB as well as the Arduino nano **directly with out its pins on** as there will be more space for wires without them and mount the PCB into its allocated slot with glue
+**Step 4:** Solder all resistors and the Arduino Nano directly to the PCB, **without installing its pins**. This provides more space for wiring. Then, use glue to secure the PCB in its designated slot.
 
-**Step 5:**  Insert the 9v battery into the left side of the controllor with its connector head on. Connect the 9v wire to the left most terminal of the switch and then connect a second wire from the middle terminal of the switch to the PCB power through-hole pad and the ground line of the battery to the ground through-hole pad.
+**Step 5:** Insert the 9V battery into the left side of the controller with its connector attached. Connect the battery’s positive wire to the leftmost terminal of the switch. Then, connect a second wire from the middle terminal of the switch to the PCB’s power through-hole pad. Connect the battery’s ground wire to the PCB’s ground through-hole pad.
 
-**Step 6:**  Using wires connect all components listed on the schematic to the PCB using 22awg flexible wire or smaller as well as heat shrink for clean connections
+**Step 6:** Using flexible 22 AWG wire or smaller, connect all components to the PCB according to the schematic. Use heat shrink tubing to insulate the connections and keep the wiring neat.
 
-**Step 7:**  Carefully align the top plate of the controller and use supper glue to keep it sealed 
-
+**Step 7:** Carefully align the controller’s top plate and use super glue to seal it in place.
 
 # Images and Demo
 <img width="428" height="571" alt="IMG_2018" src="https://github.com/user-attachments/assets/4aa9f4c6-bf56-481c-be19-639ac46e0a37" />
