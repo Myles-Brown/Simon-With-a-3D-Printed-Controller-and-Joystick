@@ -2,6 +2,16 @@
 
 This project offers a twist on the classic memory game Simon. Instead of buttons, the game uses a joystick mounted in a custom 3D-printed controller, along with LEDs, a speaker, an on/off switch, and a battery. These components are connected to a two-layer PCB designed in KiCad, with an Arduino Nano running the game’s code.
 
+# Features
+
+- **Joystick-Based Controls:** Uses a joystick instead of traditional buttons to interact with the game.
+- **LED Feedback:** Four colored LEDs indicate the game's directions: red (up), blue (down), yellow (left), and green (right). (press down for a fifth state)
+- **Audio Feedback:** Includes a buzzer to provide sound during gameplay.
+- **Custom 3D-Printed Enclosure:** Features a custom-designed controller housing created in Fusion.
+- **Custom PCB Design:** Uses a two-layer PCB designed in KiCad to connect and organize the electronic components.
+- **Arduino-Powered Gameplay:** Runs the game code on an Arduino Nano. With random patterns of LEDs and optimized code for quick inputs.
+- **Battery Powered:** Uses a 9V battery for portable operation.
+
 # Technologies Used
 
 Fusion
