@@ -29,9 +29,19 @@ For the list of components [Click Here](https://github.com/ProjectMaker409/Simon
 
 To follow along with component hook up reference [This Schematic](https://github.com/Myles-Brown/Simon-With-a-3D-Printed-Controllor-and-Joystick/blob/main/Hardware/Schematic%20and%20PCB%20View/Schematic.png)
 
-**Step 1:** Review the 3D Print Setup Information carefully for the best print quality and joystick fit
+**Step 1:**  Review the 3D Print Setup Information carefully for the best print quality and joystick fit and flash the Arduino with the code
 
-**Step 1:** Review the 3D Print Setup Information carefully for the best print quality and joystick fit
+**Step 2:**  Using Super glue mount the LED's in the exact the are in the images below IE red up blue down yellow left and green right
+
+**Step 3:**  Using super attach the push button and joystick to the top piece and the buzzer into the round hole at the front of the bottom piece and the switch into the small rectangle at the back
+
+**Step 4:**  Solder all resistors on to the PCB as well as the Arduino nano **directly with out its pins on** as there will be more space for wires without them and mount the PCB into its allocated slot with glue
+
+**Step 5:**  Insert the 9v battery into the left side of the controllor with its connector head on. Connect the 9v wire to the left most terminal of the switch and then connect a second wire from the middle terminal of the switch to the PCB power through-hole pad and the ground line of the battery to the ground through-hole pad.
+
+**Step 6:**  Using wires connect all components listed on the schematic to the PCB using 22awg flexible wire or smaller as well as heat shrink for clean connections
+
+**Step 7:**  Carefully align the top plate of the controller and use supper glue to keep it sealed 
 
 
 # Images and Demo
